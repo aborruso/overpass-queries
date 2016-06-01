@@ -4,7 +4,10 @@ Repositories for overpass-turbo and overpass-api queries
 
 ## Ricette
 
-### Tutti i parcheggi visualizzati nell'area attiva
+### Tutti i parcheggi presenti nell'area attiva
+- **Cuoco**: [Christian Cantoro](https://wiki.openstreetmap.org/wiki/User:CristianCantoro)
+- **Query live**: [http://overpass-turbo.eu/s/gyx](http://overpass-turbo.eu/s/gyx)
+- **Difficoltà**: bassa
 
 Con questa query per Overpass turbo è possibile avere restituito tutti i parcheggi:
 
@@ -36,11 +39,6 @@ Con questa query per Overpass turbo è possibile avere restituito tutti i parche
   <recurse type="down"/>
 </union>
 <print/>
-``` 
-
-#### Metadati
+```
 
 
-- **Cuoco**: [Christian Cantoro](https://wiki.openstreetmap.org/wiki/User:CristianCantoro)
-- **Query live**: [http://overpass-turbo.eu/s/gyx](http://overpass-turbo.eu/s/gyx)
-- **Difficoltà**: bassa
